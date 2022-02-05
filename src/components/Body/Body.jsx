@@ -1,6 +1,7 @@
 import React from 'react';
 import Man from "./man.jpg"
 
+
 function Body(props) {
 
     return (
